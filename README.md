@@ -6,6 +6,3 @@ Displays [random text](https://www.randomtext.me/) when user enters a Geofence. 
 
 - Allow permissions
 - Set location of emulator to one of the locations listed in the Geofences section of the app, or create a new location using the "Add" button
-
-## Screenies
-
