@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Vance_Gimbal_Submission</string>
+    <string name="default_text">Welcome</string>
+    <string name="geofences">Geofences</string>
+</resources>
